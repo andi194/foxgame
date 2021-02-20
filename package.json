@@ -11,15 +11,23 @@
     "type": "git",
     "url": "git+https://github.com/andi194/foxgame.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/andi194/foxgame/issues"
   },
   "homepage": "https://github.com/andi194/foxgame#readme",
+  
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "eslint": "^7.20.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.2.1"
   },
-  "dependencies": {},
-  "keywords": []
+"browserslist": [
+  "last 2 Chrome versions"
+]
+  
 }
